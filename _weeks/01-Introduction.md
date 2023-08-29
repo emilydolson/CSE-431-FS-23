@@ -1,26 +1,22 @@
 ---
 title: "Week 1: Review of Algorithm Analysis"
-date: 2019-01-09 12:00:00
+date: 2019-08-027 12:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
 
-This week, we'll review big-O notation, asymptotic analysis, and reccurence relations. Most of you are probably already familiar with these ideas, but we will be using them a lot over the course of the semester, so I want to make sure they're fresh in your minds. We will also practice these concepts in class.
+This week, we'll review big-O notation, and asymptotic analysis. Most of you are probably already familiar with these ideas, but we will be using them a lot over the course of the semester, so I want to make sure they're fresh in your minds. We will also practice these concepts in class.
 
 # Videos
 
 These are the videos that were recorded for the Fall 2020 version of the class. Watch these if you want a refresher or want to take the class asynchronously.
 
-## For Tuesday
-
-Please either come to class (via Zoom) or watch the recording of class (via Mediaspace). We will go over the syllabus and plans for the semester.
-
-The following video goes over the same content that we discussed in class"
+## Monday
 
 ### [Why Study Algorithms?](https://mediaspace.msu.edu/media/t/0_zg3ixmwy) (18:29)
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=0_zg3ixmwy&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_snn1jtjp" width="480" height="306" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
 
-## For Thursday
+## Wednesday
 
 ### Exact Analysis
 
@@ -68,14 +64,9 @@ We'll also go through these [practice problems](https://docs.google.com/document
 ### [Proving Asymptotic Bounds on Mergesort](https://mediaspace.msu.edu/media/Lecture+2.8+-+Mergesort+Proof/1_g2hg1moq) (18:09)
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=1_g2hg1moq&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_60lpcvdu" width="480" height="306" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
 
-# Code:
-
-Code for this week is available [here](https://github.com/emilydolson/CSE-830-SS-23/tree/main/_code/Week0).
-
 # Out: 
 
-Syllabus, Lecture review assignment #1 (due Friday), Homework #1 (due 1/24)
-
+Syllabus, Lecture review assignment #1 (due Friday), Homework #1 (due 9/13)
 
 # Due: 
 
