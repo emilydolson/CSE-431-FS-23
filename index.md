@@ -7,17 +7,15 @@ toc_icon: "cog"
 author_info: true
 ---
 
-# Information for CSE 830
+# Information for CSE 431
 
-**CSE 830: Design and Theory of Algorithms**
+**CSE 431: Algorithm Engineering**
 
-Below are the documents and links needed for Spring 2022.
+Below are the documents and links needed for Fall 2023.
 
 **[Syllabus](syllabus.html)** - provides basic information about the course including how you will be graded.
 
 **[Piazza](https://piazza.com/class/ky8ltkngb2bf2)** a place for asynchronous discussions and Q&A sessions.
-
-**Zoom** will be used for all class sessions.  The Zoom link has been e-mailed to all students and can be found on Piazza.
 
 Below are the week-by-week topics that will be covered.
 
@@ -25,8 +23,9 @@ Below are the week-by-week topics that will be covered.
 # Due dates
 
 - Every friday: weekly lecture review
-- Homework: 1/25, 2/8, 2/22, 3/15, 3/29, 4/12, 4/26
-- Take-home final: 5/6
+- Homework: 9/13, 9/27, 10/11, 10/25, 11/8, 11/22, 12/6
+- Mid-term exam: scheduled individually between October 15 - 20
+- Final exam: scheduled individually between December 10 - 15
 
 # Current course content
 

@@ -1,2 +1,3 @@
-# CSE 830
-Code and course material for MSU's "CSE 830: Design and Theory of Algorithms".
+# CSE 431
+
+Code and course material for MSU's "CSE 431: Algorithm Engineering".

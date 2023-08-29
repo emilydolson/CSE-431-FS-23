@@ -1,6 +1,6 @@
 ---
 title: "Week 1: Review of Algorithm Analysis"
-date: 2019-08-027 12:00:00
+date: 2019-08-27 12:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
