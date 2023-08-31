@@ -18,6 +18,19 @@ toc_icon: "cog"
 ## Teaching Assistants:
 
 
+
+
+
+### Undergrad TAs:
+Aman Dhruva Thamminana
+- Email: thammina+CSE431@msu.edu (piazza is preferred)
+- Office hours: Tentative/TBD
+  - https://calendar.app.google/aHnknMKdaZQkdrQK9
+
+- Github: https://github.com/amantham20
+- website: https://amantham.com
+
+
 ## Textbook: 
 
 There are no required textbooks for this course. If you would like an additional reference, good options include:
