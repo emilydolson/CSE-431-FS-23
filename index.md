@@ -57,3 +57,8 @@ Below are the week-by-week topics that will be covered.
 ## Data structure runtimes table
 
 ![Table of big-O time complexities for common operations on various data structures](DataStructureRuntimes.png)
+
+
+## Debugging Guide
+
+[Debugging Guide](https://github.com/amantham20/docs4debug/blob/main/Debug.md)
